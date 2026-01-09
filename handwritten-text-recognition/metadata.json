@@ -1,0 +1,7 @@
+{
+  "name": "ScriptoScan - AI Handwritten Text Recognition",
+  "description": "A high-performance handwritten text recognition system powered by Gemini. Upload images or draw directly on the canvas to extract text with state-of-the-art AI accuracy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
